@@ -50,7 +50,6 @@ for i in range(n):
 ~~~
 
 ## Output:
-![gaussian elimination]()
 
 ![alt text](exp6.png)
 
